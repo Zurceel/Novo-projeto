@@ -5,7 +5,8 @@ def somar(numero1, numero2):
 
 def subtrair(numero1, numero2):
     print(f'Realizanado subtraçãp de {n1} - {n2}')
-    return numero1 - numero2
+    resultado = numero1 - numero2
+    return resultado
 
 def multiplicacao(numero1, numero2):
     print(f'Realizanado multiplicação de {n1} * {n2}')
